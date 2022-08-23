@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ChmieleskiFilip
 - 👀 I’m interested in coding in c++ and python.
-- 🌱 I’m currently learning c++
+- 🌐 I'm also interested in Web Development.
+- ☑️ A Website i host https://debatox.live
 - 📫 How to reach me filipch12@gmail.com
 
 <!---
