@@ -5,7 +5,7 @@ Hey im Filip - aka Keped 👋
 - 🥅 I'm curently working on [DuoRide](https://github.com/ChmieleskiFilip/DuoRide)
 - ⚡ Fun fact: I love 90's and early 2k's cars.
 ---
-Projects I worked on
+### Projects I worked on
 - 🚗[Autox](https://github.com/swojtczak/Praktyki-2022-05)
 - 📖[Debatox](https://debatox.live/)
 - 🎶[DuoRide](https://github.com/ChmieleskiFilip/DuoRide)
