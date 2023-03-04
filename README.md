@@ -1,4 +1,4 @@
-Hey im Filip - aka Keped 👋
+Hey I'm Filip - aka Keped 👋
 ---
 - 👀 I’m interested in coding in c++ and python.
 - 🌐 I'm learing Web Development.
