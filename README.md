@@ -2,7 +2,7 @@ Hey I'm Filip - aka Keped 👋
 ---
 - 👀 I’m interested in coding in c++ and python.
 - 🌐 I'm learing Web Development.
-- 🥅 I'm curently working on [DuoRide](https://github.com/Kepedoc/DuoRide)
+- 🥅 I'm curently working on [CustomLeague](https://github.com/Kepedoc/CustomLeague)
 - ⚡ Fun fact: I love 90's and early 2k's cars.
 ---
 ### Projects I worked on
